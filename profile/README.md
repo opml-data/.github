@@ -1,5 +1,9 @@
-## Hi there 👋
-### Welcome to OPM GitHub account
+### Welcome to the OPM GitHub account
+### About OPM 
+
+### Getting started
+We recommend that you make a visit to the following repository to help you get started....
+
 
 <!--
 
