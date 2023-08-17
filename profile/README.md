@@ -1,8 +1,29 @@
 ### Welcome to the OPM GitHub account
-### About OPM 
+### About Oxford Policy Management 
+We are an international development consulting firm which aims to help low- and middle-income countries achieve growth and reduce poverty and disadvantage through public policy reform.  
 
-### Getting started
-We recommend that you make a visit to the following repository to help you get started....
+To learn more about us: 
+
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/company/opmglobal)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-youtube-URL](https://www.youtube.com/c/OPMglobal)">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/OPMglobal">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+### Our tech stack
+We use various technologies and tools in our data processes and this includes;
+* R
+* Python
+* QGIS
+* STATA
+
+
 
 
 <!--
